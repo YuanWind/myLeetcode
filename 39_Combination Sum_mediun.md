@@ -69,12 +69,10 @@ def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         if target == 0:
             res.append(path)
             return
-        
         for i in range(index, len(candidates)):
             if candidates[i] > target:
                 break
             dfs(target-candidates[i], i, path + [candidates[i]])
-    
     dfs(target, 0, [])
     return res
 ```
