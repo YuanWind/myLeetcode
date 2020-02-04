@@ -45,9 +45,9 @@ def minPathSum(self, grid: List[List[int]]) -> int:
 使用动态规划解题，将待求解问题分解成若干子问题，先求解子问题，再结合这些子问题的解得到原问题的解。  
 待求解问题：从[0][0]到[m][n]的最短距离，使dp[i][j]表示从[0][0]到[i][j]的最优解。可以有：
 $$dp(i,j)= \begin{cases}
-grid(0,0) & i,j=0\\
-dp(i-1,0)+grid(i,0) & i>0,j=0\\
-dp(0,j-1)+grid(0,j) & i=0,j>0\\
+grid(0,0) & i,j=0;\\
+dp(i-1,0)+grid(i,0) & i>0,j=0;\\
+dp(0,j-1)+grid(0,j) & i=0,j>0;\\
 min(dp(i-1,j),dp(i,j-1))+grid(i,j) & i,j>=1
 \end{cases}$$
 ```
