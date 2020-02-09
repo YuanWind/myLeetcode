@@ -66,4 +66,4 @@ class Solution:
             ans += r - l                    #序号大于自己的前缀和里有多少个前缀和在边界里面，就是以当前区间为起点，符合区间和条件的个数
             bisect.insort(q, pi)            #二分插入更新队列
         return ans
-```
+``` 
