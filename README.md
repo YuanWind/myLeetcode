@@ -4,8 +4,8 @@
 
 ## 数组 
 
-1. [数组过于简单，但你该了解这些！](./problems/数组理论基础.md) 
-2. [数组：每次遇到二分法，都是一看就会，一写就废](https://mp.weixin.qq.com/s/fCf5QbPDtE6SSlZ1yh_q8Q)
+1. [数组过于简单，但你该了解这些！](./problems/数组理论基础.md)  [无leetcode链接]()
+2. [数组：每次遇到二分法，都是一看就会，一写就废](https://mp.weixin.qq.com/s/fCf5QbPDtE6SSlZ1yh_q8Q) ——>[leetcode链接](https://leetcode-cn.com/problems/search-insert-position/)
 3. [数组：就移除个元素很难么？](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA)
 4. [数组：滑动窗口拯救了你](https://mp.weixin.qq.com/s/UrZynlqi4QpyLlLhBPglyg)
 5. [数组：这个循环可以转懵很多人！](https://mp.weixin.qq.com/s/KTPhaeqxbMK9CxHUUgFDmg)
