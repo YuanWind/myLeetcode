@@ -1,6 +1,6 @@
 # Leetcode 刷题指南
 
-本文按照[leetcode-master](https://github.com/youngyangyang04/leetcode-master)中的刷题顺序链接到 leetcode 官网中，方便直接跳转到刷题页面。(**本人刷到那里链接到哪里**)
+参考[leetcode-master](https://github.com/youngyangyang04/leetcode-master)中的刷题顺序链接到 leetcode 官网中，方便直接跳转到刷题页面。(**本人刷到那里链接到哪里**)
 
 ## 数组 
 
