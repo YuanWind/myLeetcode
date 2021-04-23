@@ -1,4 +1,4 @@
 cd G:\leetcode
 git add .
-git commit -m "åˆ·é¢˜å•¦"
+git commit -m "Ë¢ÌâÀ²"
 git push
