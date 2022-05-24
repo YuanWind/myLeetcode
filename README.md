@@ -5,9 +5,9 @@
 ## 数组 
 
 1. [数组过于简单，但你该了解这些！](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E6%95%B0%E7%BB%84%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.md)  [无leetcode链接]()
-2. [数组：每次遇到二分法，都是一看就会，一写就废](https://mp.weixin.qq.com/s/fCf5QbPDtE6SSlZ1yh_q8Q) ——>[leetcode链接](https://leetcode-cn.com/problems/search-insert-position/)
-3. [数组：就移除个元素很难么？](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA)——>[leetcode链接](https://leetcode-cn.com/problems/remove-element/)  
-4. [数组：滑动窗口拯救了你](https://mp.weixin.qq.com/s/UrZynlqi4QpyLlLhBPglyg)
+2. [数组：每次遇到二分法，都是一看就会，一写就废](https://mp.weixin.qq.com/s/fCf5QbPDtE6SSlZ1yh_q8Q) : https://leetcode-cn.com/problems/search-insert-position/
+3. [数组：就移除个元素很难么？](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA): https://leetcode-cn.com/problems/remove-element/
+4. [数组：滑动窗口拯救了你](https://mp.weixin.qq.com/s/UrZynlqi4QpyLlLhBPglyg) : https://leetcode.cn/problems/minimum-size-subarray-sum/submissions/
 5. [数组：这个循环可以转懵很多人！](https://mp.weixin.qq.com/s/KTPhaeqxbMK9CxHUUgFDmg)
 6. [数组：总结篇](https://mp.weixin.qq.com/s/LIfQFRJBH5ENTZpvixHEmg)
 
