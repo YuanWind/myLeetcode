@@ -8,8 +8,8 @@
 2. [数组：每次遇到二分法，都是一看就会，一写就废](./problems/0704.二分查找.md): https://leetcode-cn.com/problems/search-insert-position/
 3. [数组：就移除个元素很难么？](./problems/0027.移除元素.md): https://leetcode-cn.com/problems/remove-element/
 4. [数组：有序数组的平方，还有序么？](./problems/0977.有序数组的平方.md)  : https://leetcode.cn/problems/minimum-size-subarray-sum/submissions/
-5. [数组：滑动窗口拯救了你](./problems/0209.长度最小的子数组.md)
-6. [数组：这个循环可以转懵很多人！](./problems/0059.螺旋矩阵II.md)
+5. [数组：滑动窗口拯救了你](./problems/0209.长度最小的子数组.md) : https://leetcode.cn/problems/minimum-size-subarray-sum/
+6. [数组：这个循环可以转懵很多人！](./problems/0059.螺旋矩阵II.md) : https://leetcode.cn/problems/spiral-matrix-ii/
 7. [数组：总结篇](./problems/数组总结篇.md)
 
 ## 链表
