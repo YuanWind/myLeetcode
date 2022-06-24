@@ -15,7 +15,7 @@
 ## 链表
 
 1. [关于链表，你该了解这些！](./problems/链表理论基础.md)
-2. [链表：听说用虚拟头节点会方便很多？](./problems/0203.移除链表元素.md)
+2. [链表：听说用虚拟头节点会方便很多？](./problems/0203.移除链表元素.md)： https://leetcode.cn/problems/remove-linked-list-elements/solution/
 3. [链表：一道题目考察了常见的五个操作！](./problems/0707.设计链表.md)
 4. [链表：听说过两天反转链表又写不出来了？](./problems/0206.翻转链表.md) 
 5. [链表：两两交换链表中的节点](./problems/0024.两两交换链表中的节点.md)
