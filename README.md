@@ -19,7 +19,7 @@
 3. [链表：一道题目考察了常见的五个操作！](./problems/0707.设计链表.md) ：https://leetcode.cn/problems/design-linked-list/
 4. [链表：听说过两天反转链表又写不出来了？](./problems/0206.翻转链表.md) ：https://leetcode-cn.com/problems/reverse-linked-list/
 5. [链表：两两交换链表中的节点](./problems/0024.两两交换链表中的节点.md)：https://leetcode.cn/problems/swap-nodes-in-pairs/
-6. [链表：删除链表的倒数第 N 个结点](./problems/0019.删除链表的倒数第N个节点.md)
+6. [链表：删除链表的倒数第 N 个结点](./problems/0019.删除链表的倒数第N个节点.md) :https://leetcode.cn/problems/remove-nth-node-from-end-of-list/
 7. [链表：链表相交](./problems/面试题02.07.链表相交.md)
 8. [链表：环找到了，那入口呢？](./problems/0142.环形链表II.md)
 9. [链表：总结篇！](./problems/链表总结篇.md)
