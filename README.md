@@ -27,10 +27,10 @@
 ## 哈希表
 
 1. [关于哈希表，你该了解这些！](./problems/哈希表理论基础.md)
-2. [哈希表：可以拿数组当哈希表来用，但哈希值不要太大](./problems/0242.有效的字母异位词.md)
-3. [哈希表：查找常用字符](./problems/1002.查找常用字符.md)
-4. [哈希表：哈希值太大了，还是得用set](./problems/0349.两个数组的交集.md)
-5. [哈希表：用set来判断快乐数](./problems/0202.快乐数.md)
+2. [哈希表：可以拿数组当哈希表来用，但哈希值不要太大](./problems/0242.有效的字母异位词.md) :https://leetcode.cn/problems/valid-anagram/
+3. [哈希表：查找常用字符](./problems/1002.查找常用字符.md) : https://leetcode.cn/problems/find-common-characters/
+4. [哈希表：哈希值太大了，还是得用set](./problems/0349.两个数组的交集.md): https://leetcode.cn/problems/intersection-of-two-arrays/
+5. [哈希表：用set来判断快乐数](./problems/0202.快乐数.md)：https://leetcode.cn/problems/happy-number/
 6. [哈希表：map等候多时了](./problems/0001.两数之和.md)
 7. [哈希表：其实需要哈希的地方都能找到map的身影](./problems/0454.四数相加II.md)
 8. [哈希表：这道题目我做过？](./problems/0383.赎金信.md)
