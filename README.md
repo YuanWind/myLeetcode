@@ -34,7 +34,7 @@
 6. [哈希表：map等候多时了](./problems/0001.两数之和.md) : https://leetcode.cn/problems/two-sum/
 7. [哈希表：其实需要哈希的地方都能找到map的身影](./problems/0454.四数相加II.md) :https://leetcode.cn/problems/4sum-ii/
 8. [哈希表：这道题目我做过？](./problems/0383.赎金信.md) : https://leetcode.cn/problems/ransom-note/
-9. [哈希表：解决了两数之和，那么能解决三数之和么？](./problems/0015.三数之和.md)
+9. [哈希表：解决了两数之和，那么能解决三数之和么？](./problems/0015.三数之和.md)： https://leetcode.cn/problems/3sum/
 10. [双指针法：一样的道理，能解决四数之和](./problems/0018.四数之和.md)
 11. [哈希表：总结篇！（每逢总结必经典）](./problems/哈希表总结.md)
 
