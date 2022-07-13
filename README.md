@@ -41,12 +41,12 @@
 
 ## 字符串
 
-1. [字符串：这道题目，使用库函数一行代码搞定](./problems/0344.反转字符串.md)
-2. [字符串：简单的反转还不够！](./problems/0541.反转字符串II.md)
-3. [字符串：替换空格](./problems/剑指Offer05.替换空格.md)
-4. [字符串：花式反转还不够！](./problems/0151.翻转字符串里的单词.md)
-5. [字符串：反转个字符串还有这个用处？](./problems/剑指Offer58-II.左旋转字符串.md)
-6. [帮你把KMP算法学个通透](./problems/0028.实现strStr.md)
+1. [字符串：这道题目，使用库函数一行代码搞定](./problems/0344.反转字符串.md): https://leetcode.cn/problems/reverse-string/submissions/
+2. [字符串：简单的反转还不够！](./problems/0541.反转字符串II.md)：https://leetcode.cn/problems/reverse-string-ii/
+3. [字符串：替换空格](./problems/剑指Offer05.替换空格.md):https://leetcode.cn/problems/ti-huan-kong-ge-lcof/
+4. [字符串：花式反转还不够！](./problems/0151.翻转字符串里的单词.md) :https://leetcode.cn/problems/reverse-words-in-a-string/submissions/
+5. [字符串：反转个字符串还有这个用处？](./problems/剑指Offer58-II.左旋转字符串.md)： https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/submissions/
+6. [帮你把KMP算法学个通透](./problems/0028.实现strStr.md)：https://leetcode.cn/problems/implement-strstr/submissions/
 7. [字符串：KMP算法还能干这个！](./problems/0459.重复的子字符串.md)
 8. [字符串：总结篇！](./problems/字符串总结.md)
 
