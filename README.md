@@ -71,8 +71,8 @@
 1. [栈与队列：来看看栈和队列不为人知的一面](./problems/栈与队列理论基础.md)
 2. [栈与队列：我用栈来实现队列怎么样？](./problems/0232.用栈实现队列.md) :https://leetcode.cn/problems/implement-queue-using-stacks/submissions/
 3. [栈与队列：用队列实现栈还有点别扭](./problems/0225.用队列实现栈.md)：https://leetcode.cn/problems/implement-stack-using-queues/submissions/
-4. [栈与队列：系统中处处都是栈的应用](./problems/0020.有效的括号.md)
-5. [栈与队列：匹配问题都是栈的强项](./problems/1047.删除字符串中的所有相邻重复项.md)
+4. [栈与队列：系统中处处都是栈的应用](./problems/0020.有效的括号.md)：https://leetcode.cn/problems/valid-parentheses/submissions/
+5. [栈与队列：匹配问题都是栈的强项](./problems/1047.删除字符串中的所有相邻重复项.md): https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/submissions/
 6. [栈与队列：有没有想过计算机是如何处理表达式的？](./problems/0150.逆波兰表达式求值.md)
 7. [栈与队列：滑动窗口里求最大值引出一个重要数据结构](./problems/0239.滑动窗口最大值.md)
 8. [栈与队列：求前 K 个高频元素和队列有啥关系？](./problems/0347.前K个高频元素.md)
