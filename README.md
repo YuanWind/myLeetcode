@@ -54,10 +54,10 @@
 
 双指针法基本都是应用在数组，字符串与链表的题目上
 
-1. [数组：就移除个元素很难么？](./problems/0027.移除元素.md)
-2. [字符串：这道题目，使用库函数一行代码搞定](./problems/0344.反转字符串.md)
-3. [字符串：替换空格](./problems/剑指Offer05.替换空格.md)
-4. [字符串：花式反转还不够！](./problems/0151.翻转字符串里的单词.md)
+1. [数组：就移除个元素很难么？](./problems/0027.移除元素.md) : https://leetcode-cn.com/problems/remove-element/
+2. [字符串：这道题目，使用库函数一行代码搞定](./problems/0344.反转字符串.md) :https://leetcode-cn.com/problems/reverse-string/
+3. [字符串：替换空格](./problems/剑指Offer05.替换空格.md) :https://leetcode.cn/problems/ti-huan-kong-ge-lcof/submissions/
+4. [字符串：花式反转还不够！](./problems/0151.翻转字符串里的单词.md) https://leetcode-cn.com/problems/reverse-words-in-a-string/
 5. [链表：听说过两天反转链表又写不出来了？](./problems/0206.翻转链表.md)
 6. [链表：删除链表的倒数第 N 个结点](./problems/0019.删除链表的倒数第N个节点.md)
 7. [链表：链表相交](./problems/面试题02.07.链表相交.md)
@@ -69,8 +69,8 @@
 ## 栈与队列
 
 1. [栈与队列：来看看栈和队列不为人知的一面](./problems/栈与队列理论基础.md)
-2. [栈与队列：我用栈来实现队列怎么样？](./problems/0232.用栈实现队列.md)
-3. [栈与队列：用队列实现栈还有点别扭](./problems/0225.用队列实现栈.md)
+2. [栈与队列：我用栈来实现队列怎么样？](./problems/0232.用栈实现队列.md) :https://leetcode.cn/problems/implement-queue-using-stacks/submissions/
+3. [栈与队列：用队列实现栈还有点别扭](./problems/0225.用队列实现栈.md)：https://leetcode.cn/problems/implement-stack-using-queues/submissions/
 4. [栈与队列：系统中处处都是栈的应用](./problems/0020.有效的括号.md)
 5. [栈与队列：匹配问题都是栈的强项](./problems/1047.删除字符串中的所有相邻重复项.md)
 6. [栈与队列：有没有想过计算机是如何处理表达式的？](./problems/0150.逆波兰表达式求值.md)
