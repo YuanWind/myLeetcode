@@ -90,7 +90,7 @@
 5. [二叉树：层序遍历登场！](./problems/0102.二叉树的层序遍历.md) ：https://leetcode.cn/problems/binary-tree-level-order-traversal/submissions/
 6. [二叉树：你真的会翻转二叉树么？](./problems/0226.翻转二叉树.md) ：https://leetcode.cn/problems/invert-binary-tree/submissions/
 7. [本周小结！（二叉树）](./problems/周总结/20200927二叉树周末总结.md)
-8. [二叉树：我对称么？](./problems/0101.对称二叉树.md)
+8. [二叉树：我对称么？](./problems/0101.对称二叉树.md):https://leetcode.cn/problems/symmetric-tree/submissions/
 9. [二叉树：看看这些树的最大深度](./problems/0104.二叉树的最大深度.md)
 10. [二叉树：看看这些树的最小深度](./problems/0111.二叉树的最小深度.md)
 11. [二叉树：我有多少个节点？](./problems/0222.完全二叉树的节点个数.md)
