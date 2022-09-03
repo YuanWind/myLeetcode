@@ -93,8 +93,8 @@
 8. [二叉树：我对称么？](./problems/0101.对称二叉树.md):https://leetcode.cn/problems/symmetric-tree/submissions/
 9. [二叉树：看看这些树的最大深度](./problems/0104.二叉树的最大深度.md)：https://leetcode.cn/problems/maximum-depth-of-binary-tree/submissions/
 10. [二叉树：看看这些树的最小深度](./problems/0111.二叉树的最小深度.md):https://leetcode.cn/problems/minimum-depth-of-binary-tree/submissions/
-11. [二叉树：我有多少个节点？](./problems/0222.完全二叉树的节点个数.md)
-12. [二叉树：我平衡么？](./problems/0110.平衡二叉树.md)
+11. [二叉树：我有多少个节点？](./problems/0222.完全二叉树的节点个数.md):https://leetcode.cn/problems/count-complete-tree-nodes/submissions/
+12. [二叉树：我平衡么？](./problems/0110.平衡二叉树.md):https://leetcode.cn/problems/balanced-binary-tree/submissions/
 13. [二叉树：找我的所有路径？](./problems/0257.二叉树的所有路径.md)
 14. [本周总结！二叉树系列二](./problems/周总结/20201003二叉树周末总结.md)
 15. [二叉树：以为使用了递归，其实还隐藏着回溯](./problems/二叉树中递归带着回溯.md)
