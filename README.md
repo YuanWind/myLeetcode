@@ -98,8 +98,8 @@
 13. [二叉树：找我的所有路径？](./problems/0257.二叉树的所有路径.md):https://leetcode.cn/problems/binary-tree-paths/submissions/
 14. [本周总结！二叉树系列二](./problems/周总结/20201003二叉树周末总结.md):https://leetcode.cn/problems/sum-of-left-leaves/submissions/
 15. [二叉树：以为使用了递归，其实还隐藏着回溯](./problems/二叉树中递归带着回溯.md)
-16. [二叉树：做了这么多题目了，我的左叶子之和是多少？](./problems/0404.左叶子之和.md)
-17. [二叉树：我的左下角的值是多少？](./problems/0513.找树左下角的值.md)
+16. [二叉树：做了这么多题目了，我的左叶子之和是多少？](./problems/0404.左叶子之和.md):https://leetcode.cn/problems/sum-of-left-leaves/
+17. [二叉树：我的左下角的值是多少？](./problems/0513.找树左下角的值.md): https://leetcode.cn/problems/find-bottom-left-tree-value/submissions/
 18. [二叉树：路径总和](./problems/0112.路径总和.md)
 19. [二叉树：构造二叉树登场！](./problems/0106.从中序与后序遍历序列构造二叉树.md)
 20. [二叉树：构造一棵最大的二叉树](./problems/0654.最大二叉树.md)
